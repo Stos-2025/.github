@@ -1,1 +1,1 @@
-# .github
+# Stos 2025
